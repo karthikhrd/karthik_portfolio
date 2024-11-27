@@ -3,7 +3,7 @@ export const Bio = {
   roles: [
     "Full Stack Developer",
     "MERN Stack Developer",
-    "Python Intermediate",
+    "Data Science Learner",
     "Programmer",
   ],
   description:
@@ -11,7 +11,7 @@ export const Bio = {
   github: "https://github.com/karthikhrd",
   resume:
     "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/hrk%20of%20Sample.cv.pdf?alt=media&token=444c5b9c-b194-4b34-84b0-6110c8ea0912",
-  linkedin: "https://www.linkedin.com/in/karthik-h-r-851211224/",
+  linkedin: "https://www.linkedin.com/in/karthikhr17/",
   twitter: "https://x.com/KarthikHR152629",
   insta: "https://www.instagram.com/karthikh_r_d/",
   facebook: "https://www.facebook.com/karthik.karthikmessi.3",
@@ -239,21 +239,22 @@ export const experiences = [
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/cuv.jpg?alt=media&token=1b83c6f0-0170-4ae4-8d82-0e8d71f7faaa",
     role: "MERN  Intern",
     company: "Cuvette",
-    date: "Jan 2024 - present",
+    date: "Feb 2024 - Aug 2024",
     desc: "As a MERN stack intern, I developed and maintained full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I collaborated with senior developers to implement new features and improve existing functionalities. I also gained hands-on experience in debugging, testing, and deploying applications.",
     skills: [
       "MERN",
       "Java",
       "Java script",
-      "XML",
       "Node Js",
       "Material UI",
-      "Firebase",
-      "Figma",
+      "EXPRESS.JS",
+      "NO SQL",
       "API's"
     ],
-    doc: "",
+    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/cuve%20internship.png?alt=media&token=bc06b956-29f6-456f-9c12-cbea2a59a338",
+   
   },
+
 ];
 
 export const education = [
@@ -418,20 +419,20 @@ export const projects = [
     webapp: "https://66b1e7778b3ab7b6c1d86ecc--silver-halva-58b83e.netlify.app/",
    
   },
-//   {
-//     id: 8,
-//     title: "Face Recognition",
-//     date: "Jan 2021",
-//     description:
-//       "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
-//     image:
-//       "https://",
-//     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-//     category: "machine learning",
-//     github: "https://",
-//     webapp: "https://",
-//   },
-//
+  {
+    id: 8,
+    title: "QUIZZIE-APP",
+    date: "JUN 2024-SEP 2024",
+    description:
+      "User can login and create quizz and make poll and attend quizz and share the link to other user ",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/Screenshot%202024-09-03%20230355.png?alt=media&token=e1d0a340-d87a-48e8-a41a-2a11b6eea16f",
+    tags: ["vercel", "Javascript", "Node.js", "css", "Express", "React"],
+    category: "Web app",
+    github: "https://github.com/karthikhrd/quizz_app",
+    webapp: "https://quizz-app-topaz.vercel.app/",
+  },
+
  ];
 
 export const TimeLineData = [
