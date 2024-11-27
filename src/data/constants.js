@@ -1,9 +1,9 @@
 export const Bio = {
   name: "KARTHIK H R",
   roles: [
+    "Data Science AI|ML",
     "Full Stack Developer",
-    "MERN Stack Developer",
-    "Data Science Learner",
+    "C/C++ Intermediate",
     "Programmer",
   ],
   description:
