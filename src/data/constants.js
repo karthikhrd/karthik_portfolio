@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/karthikhrd",
   resume:
-    "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/hrk%20of%20Sample.cv.pdf?alt=media&token=444c5b9c-b194-4b34-84b0-6110c8ea0912",
+    "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/Karthik%20HR.pdf?alt=media&token=2c6f4cc3-5731-42b5-82fc-5dd58b68da42",
   linkedin: "https://www.linkedin.com/in/karthikhr17/",
   twitter: "https://x.com/KarthikHR152629",
   insta: "https://www.instagram.com/karthikh_r_d/",
@@ -109,23 +109,71 @@ export const skills = [
     ],
   },
   {
-    title: "Android",
+    title: "Data Science AI/ML",
     skills: [
       {
-        name: "Java",
+        name: "Artificial Intelligence",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/java.png?alt=media&token=50013a41-2cb0-411d-b257-d5c73002d965",
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/AI%20LOGO.jpg?alt=media&token=550c47e3-0c9d-49aa-a17f-3daeb1641367",
       },
      
       {
-        name: "XML",
+        name: "Machine Learning",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/xml.png?alt=media&token=17b2e467-7cc5-41a1-a673-0d5d4868ed71",
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/ML%20LOGO.jpg?alt=media&token=ea476866-713a-4e7c-bc5a-25a7aa5c98cd",
       },
       {
-        name: "Android Studio",
+        name: "TENSORFLOW",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/android.png?alt=media&token=14ab0686-f446-4291-afbe-1b7c8d153e0f",
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/TENSARFLOW.png?alt=media&token=e539b5b6-1012-4fa9-9527-686c4e7e4b33",
+      },
+
+
+          {
+        name: "Keras",
+        image:
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/KERAS.png?alt=media&token=d0c35db3-31ac-4113-a44a-76215d91dd96",
+      },
+
+
+
+          {
+        name: "Numpy",
+        image:
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/NUMPY.png?alt=media&token=3b760003-12ed-4426-b840-8938eaa887a0",
+      },
+
+
+
+          {
+        name: "Pandas",
+        image:
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/PANDAS.png?alt=media&token=2679d890-7e2f-4d86-b656-cb7fb446e5ea",
+      },
+
+
+
+
+          {
+        name: "Matplotlib",
+        image:
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/MATPLOTLIB.png?alt=media&token=fc989af4-941b-42ab-8989-159f13d72dd5",
+      },
+
+
+
+
+          {
+        name: "Seaborn",
+        image:
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/SEABORN.png?alt=media&token=72410a6a-5b16-40d8-8d93-54c8a74750d1",
+      },
+
+         
+          {
+        name: "PyTorch",
+        image:
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/PYTORCH.png?alt=media&token=03496342-03a8-45f9-9a60-1ec568ca3418",
       },
     ],
   },
@@ -179,22 +227,22 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/download.jpeg?alt=media&token=96c4ed43-b68e-4833-9ef5-af35caba8bd2",
-    role: "MERN stack  Intern",
-    company: "Code labsystems Pvt. Ltd.",
-    date: "Jul 2023 - Sep 2023",
-    desc: "Internship Trainee at CodeLab Systems, where I contributed to the development of an e-commerce project.",
+    img:"https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/UC%20SAN%20DIAGO.png?alt=media&token=acf30030-83ff-48d5-84a8-fda8038e6ac7",
+    role: "Data Structures and Algorithms",
+    company: "University of California San Diego",
+    date: "Jul 2024 - May 2025",
+    desc: "Coursera certifies their successful completion of University of California San Diego Data Structures and Algorithms Specialization.",
     skills: [
-       "Mongo db",
-      "React js",
-      "Local Storage",
-      "Postman API",
-      "JavaScript",
-      "Express",
-      "Node Js",
-      "MySQL",
+       "python",
+      "Algorithms",
+      "Linear Data Structures",
+      "Non-Linear Data Structures",
+      "Dynamic Programming",
+      "Computer Programming",
+      "C++",
+      "Graph Theory",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/intreen%20crit.jpg?alt=media&token=4d9cc9aa-4022-4adb-8846-cf2f52f388b4",
+    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/Screenshot%202025-06-17%20174510.png?alt=media&token=6dffabfe-f780-46c7-9f3f-5bd4916f738b",
   },
   {
     id: 1,
@@ -215,8 +263,30 @@ export const experiences = [
       "JWT"
     ],
   },
+
   {
     id: 2,
+    img:"https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/cours.jpg?alt=media&token=d83b95af-17e7-4139-aa50-de8e83add428",
+    role: "Google IT Automation with Python Professional Certificate",
+    company: "Google & Coursera",
+    date: "Nov 2024 - May 2025",
+    desc: "Gain hands-on experience automating tasks using Python scripts while managing IT infrastructure at scale, including both physical and cloud-based systems. Master version control with Git and GitHub, and develop skills in Infrastructure as Code, CI/CD, containerization, and cloud computing. Solve real-world IT problems through effective debugging, scripting with Bash, and applying core programming principles.",
+    skills: [
+       "python",
+      "Algorithms",
+      "CI/CD",
+      "MySQL",
+      "Docker",
+      "Git & GitHub",
+      "Cloud Computing",
+      "Infrastructure as Code (IaC)",
+      "Programming Principles",
+      "Web Services",
+    ],
+    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/python%20automation.png?alt=media&token=80a9b860-663c-4e10-aa09-0f1e50253052",
+  },
+  {
+    id: 3,
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/cours.jpg?alt=media&token=d83b95af-17e7-4139-aa50-de8e83add428",
     role: "Automate Cybersecurity Tasks with Python ",
     company: "Coursera",
@@ -235,7 +305,7 @@ export const experiences = [
   
   },
   {
-    id: 3,
+    id: 4,
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/cuv.jpg?alt=media&token=1b83c6f0-0170-4ae4-8d82-0e8d71f7faaa",
     role: "MERN  Intern",
     company: "Cuvette",
@@ -255,6 +325,25 @@ export const experiences = [
    
   },
 
+  {
+    id: 5,
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/google%20coursera.png?alt=media&token=8e741218-82bb-47da-9498-69545dfa7c38",
+    role: "Google Advanced Data Analytics Professional Certificate",
+    company: "Coursera & Google Inc",
+    date: "Sep 2024 - Nov 2024",
+    desc: " I have learned practical skills in data analysis, machine learning, and Python programming through the Google Advanced Data Analytics Professional Certificate. I gained expertise in analyzing complex data sets, generating insights, and preparing technical reports. This program has equipped me with hands-on experience in real-world data challenges, preparing me for data analyst roles.",
+    doc: "",
+    skills: [
+      "Data science",
+      "AI-ML ",
+      "Python",
+      "Translate Data into Insights",
+      "The Power of Statistics",
+      "Regression Analysis: Simplify Complex Data Relationships",
+      "The Nuts and Bolts of Machine Learning",
+      "Google Advanced Data Analytics Capstone"
+    ],
+  },
 ];
 
 export const education = [
@@ -263,7 +352,7 @@ export const education = [
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/AJIET.webp?alt=media&token=2516aa70-058b-4fe4-bda2-e72611c82b3d",
     school: "AJ Institute of Engineering  and Technology, Manglore",
     date: "Dec 2020 - May 2024",
-    grade: "6.71 CGPA",
+    grade: "7.0 CGPA",
     desc: "I  recently completed my  Bachelor's degree in Computer Science and Engineering at AJ Institute of Engineering  and Technology, Manglore. I have completed 8 semesters and have a CGPA of 6.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, and AI/ML,Big Data Analysis  among others.",
     degree: "Bachelor of Engineering  - B.E. in Computer Science & Engineering",
   },
@@ -438,7 +527,8 @@ export const projects = [
 export const TimeLineData = [
   { year: 2020, text: "Started my journey" },
   { year: 2023, text: "Worked as intern in MERN Stack" },
-  { year: 2023, text: "Deep dive into JavaScript Mastery" },
+   
   { year: 2024, text: "Shared my projects with the world" },
   { year: 2024, text: "Started Building Full-Stack Projects" },
+  {year: 2025, text: "Deep dive into Data Science AI/ML" },
 ];
