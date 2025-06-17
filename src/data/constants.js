@@ -332,7 +332,7 @@ export const experiences = [
     company: "Coursera & Google Inc",
     date: "Sep 2024 - Nov 2024",
     desc: " I have learned practical skills in data analysis, machine learning, and Python programming through the Google Advanced Data Analytics Professional Certificate. I gained expertise in analyzing complex data sets, generating insights, and preparing technical reports. This program has equipped me with hands-on experience in real-world data challenges, preparing me for data analyst roles.",
-    doc: "",
+    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/Google%20Advanced%20Data%20analytics.png?alt=media&token=fa734ee3-f80a-4804-9166-f5379bbc95ae",
     skills: [
       "Data science",
       "AI-ML ",
