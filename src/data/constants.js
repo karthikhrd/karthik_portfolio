@@ -125,14 +125,14 @@ export const skills = [
       {
         name: "TENSORFLOW",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/TENSARFLOW.png?alt=media&token=e539b5b6-1012-4fa9-9527-686c4e7e4b33",
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/DATA%20SCIENCE%2FTENSARFLOW.jpg?alt=media&token=e31303e7-3315-4ae6-9e2f-e79114abcf38",
       },
 
 
           {
         name: "Keras",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/KERAS.png?alt=media&token=d0c35db3-31ac-4113-a44a-76215d91dd96",
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/DATA%20SCIENCE%2FKERAS.jpg?alt=media&token=184a91c8-07fb-41ba-a0e8-1f639dc32296",
       },
 
 
@@ -140,7 +140,7 @@ export const skills = [
           {
         name: "Numpy",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/NUMPY.png?alt=media&token=3b760003-12ed-4426-b840-8938eaa887a0",
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/DATA%20SCIENCE%2FNUMPY.jpg?alt=media&token=b5cd7f68-3769-4e61-855f-191fae37fffd",
       },
 
 
@@ -148,7 +148,7 @@ export const skills = [
           {
         name: "Pandas",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/PANDAS.png?alt=media&token=2679d890-7e2f-4d86-b656-cb7fb446e5ea",
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/DATA%20SCIENCE%2FPANDAS.jpg?alt=media&token=6eee0d3c-07d6-47d5-a0f3-43830a95dfb4",
       },
 
 
@@ -157,7 +157,7 @@ export const skills = [
           {
         name: "Matplotlib",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/MATPLOTLIB.png?alt=media&token=fc989af4-941b-42ab-8989-159f13d72dd5",
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/DATA%20SCIENCE%2FMATPLOTLIB.jpg?alt=media&token=ae43612b-9df4-467c-8828-980281bd06d3",
       },
 
 
@@ -166,14 +166,14 @@ export const skills = [
           {
         name: "Seaborn",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/SEABORN.png?alt=media&token=72410a6a-5b16-40d8-8d93-54c8a74750d1",
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/DATA%20SCIENCE%2FSEABORN.jpg?alt=media&token=264e348c-7fd3-4ee8-9fd5-06d8590681ff",
       },
 
          
           {
         name: "PyTorch",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/PYTORCH.png?alt=media&token=03496342-03a8-45f9-9a60-1ec568ca3418",
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/DATA%20SCIENCE%2FPYTORCH.jpg?alt=media&token=0d36d372-73e8-44d3-a76d-aca4cad1c86d",
       },
     ],
   },
