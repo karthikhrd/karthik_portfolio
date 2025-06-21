@@ -2,16 +2,17 @@ export const Bio = {
   name: "KARTHIK H R",
   roles: [
     "Junior Data Scientist",
-    "Oen to Work as ML Engineer",
-    "Full Stack Developer",
+    "Open to AI/ML & Data Roles",
+    "Ex- Full Stack Developer",
     "C/C++ Intermediate",
+    "AI Research & Applications",
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I’m a Computer Science graduate with hands-on experience in Python, Machine Learning, and Full-Stack Development. I’m actively exploring roles in AI, ML, Data Science, and Data Engineering where I can solve real-world problems with data-driven approaches. Actively Exploring Opportunities in Machine Learning, Data Engineering & Analytics",
   github: "https://github.com/karthikhrd",
   resume:
-    "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/Karthik%20HR.pdf?alt=media&token=2c6f4cc3-5731-42b5-82fc-5dd58b68da42",
+    "https://firebasestorage.googleapis.com/v0/b/portfolio-571e2.appspot.com/o/karthik_HR.pdf?alt=media&token=c5f1fb4c-792f-4ab8-8b73-70f8435ec5b5",
   linkedin: "https://www.linkedin.com/in/karthikhr17/",
   twitter: "https://x.com/KarthikHR152629",
   insta: "https://www.instagram.com/karthikh_r_d/",
